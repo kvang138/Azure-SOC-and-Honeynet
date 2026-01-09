@@ -21,7 +21,7 @@ Architecture of the mini honeynet is consist of the following components:
  ## Architecture before hardening with security controls
 
 
-All inbound connections are allowed.
+All resouces were originally deployed exposed to the internet with all inbound traffics allowed. The virtual machine had its Network Security Group and host firewall wide open.
 
 ### Metrics before hardening
 
