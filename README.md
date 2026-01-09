@@ -18,12 +18,12 @@ Architecture of the mini honeynet is consist of the following components:
   - Azure Key Vault
   - Azure Storage Account
    
-## Architecture before hardening with security controls
+## Architecture Before Hardening with Security Controls
 
 
 All resouces were originally deployed exposed to the internet with all traffics allowed. The virtual machine had its Network Security Group and host firewall wide open.
 
-### Metrics before hardening
+### Metrics Before Hardening
 
 | Metric           | Count
 |----------------- | -----
@@ -32,10 +32,10 @@ All resouces were originally deployed exposed to the internet with all traffics 
 | SecurityIncident |
 | NTANetAnalytics  |
 
-## Architecture after hardening with security controls
+## Architecture After Hardening with Security Controls
 All deployed resources are now hardened with security controls. The Network Security Group were hardened by blocking all traffics with the expection of the administrator workstation.
 
-### Metrics after hardening
+### Metrics After Hardening
 | Metric           | Count
 |----------------- | -----
 | SecurityEvent    |
