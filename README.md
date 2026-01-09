@@ -44,7 +44,7 @@ All deployed resources are now hardened with security controls. The Network Secu
 | NTANetAnalytics  |
 
 ## Conclusion
-It worth noting that the number of event and incident were drastically reduced after security controls were implemented and applied, demostrating their effective in preventing unwanted cyberthreats and incidents.
+It worth noting that the number of event and incident were drastically reduced after security controls were implemented and applied, demostrating their effectiveness in preventing unwanted cyberthreats and incidents.
 
    
  
