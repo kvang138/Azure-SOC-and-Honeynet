@@ -7,7 +7,7 @@ I also measured some security metrics before and 24 hours after implementing and
   SecurityEvent (Windows Event Logs)
   SecurityAlert (Log Analytic Alerts Triggered)
   SecurityIncident (Incidents created by Sentinel)
-  NATAnalyic (Malicious Flows allowed into our honeynet)
+  NTANetAnalytics (Malicious Flows allowed into our honeynet)
 
 ## 
 
